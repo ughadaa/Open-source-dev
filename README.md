@@ -2,4 +2,6 @@
 for open-source contributions
 
 ## Contributors List
-Raghad
+Raghad Alsarhan
+Ghada
+
